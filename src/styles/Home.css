@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=Handlee&display=swap');
 
 .heroSecMainParent {
@@ -58,17 +59,84 @@
 .heroDesc {
     font-size: 1rem;
     color: #555;
+=======
+@import url("https://fonts.googleapis.com/css2?family=Handlee&display=swap");
+
+.heroSecMainParent {
+  background-color: #efebe7f7;
+  text-align: center;
+  padding: 2rem;
+}
+
+.welcomeStore {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-top: 2rem;
+  font-family: "Handlee", cursive;
+}
+
+.heroDescription {
+  margin: 1rem auto;
+  max-width: 43rem;
+  text-align: center;
+  position: relative;
+  top: -1rem;
+}
+
+.heroRow {
+  display: flex;
+  justify-content: center;
+  gap: 4rem;
+  margin-top: 2rem;
+}
+
+.heroContent {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: left;
+  gap: 1rem;
+  max-width: 300px;
+}
+
+.heroImage {
+  width: 80px; /* Smaller size */
+  height: 80px; /* Ensure all images have the same height */
+  object-fit: cover;
+}
+
+.heroText {
+  text-align: center;
+  flex-direction: row;
+}
+
+.heroHeading {
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+}
+
+.heroDesc {
+  font-size: 1rem;
+  color: #555;
+>>>>>>> 1212e0a (Initial commit)
 }
 
 /* ===== Scrollbar CSS ===== */
 /* Firefox */
 * {
+<<<<<<< HEAD
     scrollbar-width: auto;
     scrollbar-color: #8f54a0 #ffffff;
+=======
+  scrollbar-width: auto;
+  scrollbar-color: #8f54a0 #ffffff;
+>>>>>>> 1212e0a (Initial commit)
 }
 
 /* Chrome, Edge, and Safari */
 *::-webkit-scrollbar {
+<<<<<<< HEAD
     width: 16px;
 }
 
@@ -85,3 +153,20 @@
     background-color: red;
 }
 >>>>>>> origin/main
+=======
+  width: 16px;
+}
+
+*::-webkit-scrollbar-track {
+  background: #d9cbcb72;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #173f35;
+  border-radius: 40px;
+}
+
+.demo {
+  background-color: red;
+}
+>>>>>>> 1212e0a (Initial commit)

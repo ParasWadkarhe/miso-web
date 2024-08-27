@@ -36,14 +36,24 @@ const JournalPage = () => {
               </p>
               <h2 className='text-2xl font-bold mt-4 font-times'>Gifting for Every Occasion</h2>
               <ul className='list-disc ml-5 mt-2 text-justify font-times text-xl'>
+<<<<<<< HEAD
                 <li><strong>Birthdays:</strong> Give your loved ones uniquely crafted wooden jewelry boxes or picture frames with laser engravings that capture their most treasured moments.</li><br/>
                 <li><strong>Anniversaries:</strong> Make this special day with custom-engraved wine boxes or beautifully created keepsakes.</li><br/>
                 <li><strong>Weddings:</strong> Celebrate love with custom-engraved wood coasters or photo albums, or custom signage for the big day.</li><br/>
+=======
+                <li><strong>Birthdays:</strong> Give your loved ones uniquely crafted wooden boxes or picture frames with engravings that capture their most treasured moments.</li><br/>
+                <li><strong>Anniversaries:</strong> Make this special day with custom-engraved boxes or beautifully created keepsakes.</li><br/>
+                <li><strong>Weddings:</strong> Celebrate love with custom-engraved wood frames or photo albums for the big day.</li><br/>
+>>>>>>> 1212e0a (Initial commit)
                 <li><strong>Corporate Gifts:</strong> Impress the sense with our range of sophisticated wooden desk accessories and plaques, ideal for clients and staff alike.</li><br/><br/>
               </ul> 
               <h2 className='text-2xl font-bold mt-4 font-times'>Gift Ideas by Personality</h2>
               <ul className='list-disc ml-5 mt-2 text-justify font-times text-xl'>
+<<<<<<< HEAD
                 <li><strong>For the Minimalist:</strong> Sleek, discreet wooden keychains and sets of pens afford elegance in simplicity.</li><br/>
+=======
+                <li><strong>For the Minimalist:</strong> Sleek, discreet wooden keychains afford elegance in simplicity.</li><br/>
+>>>>>>> 1212e0a (Initial commit)
                 <li><strong>For the Nature Lover:</strong> Wooden planters or serving boards with engravings add a rustic touch, very organic, to any home.</li><br/>
                 <li><strong>For the Sentimental:</strong> Research customized memory boxes in which treasured keepsakes can be stored and preserved over time.</li><br/>
               </ul>
@@ -60,7 +70,20 @@ const JournalPage = () => {
 
                 <h2 className='text-2xl font-bold mt-4 font-times'>Need Inspiration?</h2>
                 <div className='text-xl font-times flex text-justify'>  Shop top selling gift categories or chat with our team for ideas unique to you.<br/>
+<<<<<<< HEAD
                 Ready to give the perfect gift? Shop Miso's collection today and give a gift they'll always remember.
+=======
+                Ready to give the perfect gift? Shop Miso's collection today and give a gift they'll always remember.<br/><br/>
+                </div>
+              
+
+                <h2 className='text-2xl font-bold mt-4 font-times'>Crafting Timeless Memories: The Perfect Gift Awaits</h2>
+                <div className='text-xl font-times flex text-justify'>  Close your gift circle with Miso, where artistry meets customization to create more profound and
+longer-lasting moments. Whether an immortal wooden piece with great engravings or a
+customized design just right for the moment, each of our thoughtfully selected gifting guides lets
+you express so much with every present. Allow Miso to help you make your moments into
+treasures to be cherished throughout life.
+>>>>>>> 1212e0a (Initial commit)
                 </div>
              
               
@@ -75,7 +98,11 @@ const JournalPage = () => {
               <p className="font-times text-xl text-justify mt-1">
                 DIY Wooden Engraving Projects
                 <br/>
+<<<<<<< HEAD
                 Unleash your creativity with Miso's DIY wooden engraving kits! Whether you're a crafting enthusiast or a beginner looking to explore something new, our DIY projects are perfect for adding a personal touch to your home, gifting, or special events. With easy-to-follow guides and high-quality materials, we help you turn ordinary wood into extraordinary creations.
+=======
+                Unleash your creativity with MISO! Whether you're a crafting enthusiast or a beginner looking to explore something new, our DIY projects are perfect for adding a personal touch to your home, gifting, or special events. With easy-to-follow guides and high-quality materials, we help you turn ordinary wood into extraordinary creations.
+>>>>>>> 1212e0a (Initial commit)
                 <br/><br/>
               </p>
 
@@ -83,12 +110,20 @@ const JournalPage = () => {
               <ul className='list-disc ml-5 mt-2 text-justify font-times text-xl'>
                 <li><strong>Personalized Experience:</strong> Our DIY kits allow you to design and create unique engraved wooden products that reflect your personal style.</li><br/>
                 <li><strong>Fun and Easy:</strong> No experience necessary! Our step-by-step instructions make it easy to dive into your project and enjoy the creative process.</li><br/>
+<<<<<<< HEAD
                 <li><strong>Sustainable Crafting:</strong> All our DIY kits are crafted with eco-friendly, high-quality wood, so you can create with a clear conscience.</li><br/><br/>
+=======
+                <li><strong>Sustainable Crafting:</strong> All our wooden engraving are crafted with eco-friendly, high-quality wood, so you can create with a clear conscience.</li><br/><br/>
+>>>>>>> 1212e0a (Initial commit)
               </ul>
 
               <h2 className='text-2xl font-bold mt-4 font-times'>Popular DIY Projects</h2>
               <ul className='list-disc ml-5 mt-2 text-justify font-times text-xl'>
+<<<<<<< HEAD
                 <li><strong>Engraved Wooden Coasters:</strong> Design your own set of personalized coasters. Perfect for adding a custom touch to your home or giving as a thoughtful gift.</li><br/>
+=======
+                {/* <li><strong>Engraved Wooden Coasters:</strong> Design your own set of personalized coasters. Perfect for adding a custom touch to your home or giving as a thoughtful gift.</li><br/> */}
+>>>>>>> 1212e0a (Initial commit)
                 <li><strong>Custom Name Plaques:</strong> Create beautifully engraved wooden name plaques for your home, office, or as a unique housewarming gift.</li><br/>
                 <li><strong>Personalized Keychains:</strong> Craft your own keychains with custom engravings—ideal for personal use or small gifts.</li><br/>
                 <li><strong>Engraved Picture Frames:</strong> Build and engrave your own wooden picture frames to showcase your most cherished memories with a personal flair.</li><br/><br/>
@@ -103,13 +138,21 @@ const JournalPage = () => {
 
               <h2 className='text-2xl font-bold mt-4 font-times'>Make It Your Own</h2>
               <div className='list-disc ml-1 mt-2 text-justify font-times text-xl'>
+<<<<<<< HEAD
                 With Miso’s DIY kits, you have the freedom to customize your projects to your liking. Choose from various wood types, fonts, and engraving designs to create something truly special. Whether it's a heartfelt gift or a personal keepsake, your DIY creation will be one-of-a-kind.
+=======
+                With Miso, you have the freedom to customize your projects to your liking. Choose from various wood types, fonts, and engraving designs to create something truly special. Whether it's a heartfelt gift or a personal keepsake, your DIY creation will be one-of-a-kind.
+>>>>>>> 1212e0a (Initial commit)
                 <br/><br/>
               </div>
 
               <h2 className='text-2xl font-bold mt-4 font-times'>Get Started Today!</h2>
               <div className='text-xl font-times flex text-justify'>
+<<<<<<< HEAD
                 Ready to dive into your next DIY adventure? Browse our full collection of DIY engraving kits and get crafting today. No matter your skill level, Miso’s kits provide everything you need to create stunning wooden engraved pieces from the comfort of your home.
+=======
+                Ready to dive into your next DIY adventure? Browse our full collection of DIY engravings and get crafting today. No matter your skill level, Miso’s creation provide everything you need to create stunning wooden engraved pieces from the comfort of your home.
+>>>>>>> 1212e0a (Initial commit)
               </div>
             </>
           )}
