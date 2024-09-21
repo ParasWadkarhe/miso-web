@@ -21,6 +21,7 @@ import Signup from "./components/Signup.jsx";
 import AboutUs from "./components/AboutUs.jsx";
 import Footer from "./components/Footer.jsx";
 import OurTeam from "./components/OurTeam.jsx";
+// import Cookie from "./components/Cookie.jsx";
 
 // Importing global styles
 import "./index.css";
@@ -61,6 +62,7 @@ const AppContent = ({ isAuthenticated, setIsAuthenticated }) => {
         </Routes>
       </main>
       <Footer /> {/* Footer appears at the bottom */}
+      {/* <Cookie /> */}
     </div>
   );
 };
