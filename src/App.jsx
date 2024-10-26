@@ -51,6 +51,7 @@ import Festive from "./components/Festive.jsx";
 import Boxes from "./components/Boxes.jsx";
 import CustomMugs from "./components/CustomMugs.jsx";
 import Coasters from "./components/Coasters.jsx";
+import ProductUploadForm from "./components/ProductUploadForm.jsx";
 
 // Importing global styles
 import "./index.css";
@@ -103,6 +104,7 @@ const AppContent = ({ isAuthenticated, setIsAuthenticated }) => {
           <Route path="/contact" element={<Contact />} />
           <Route path="/cookie" element={<Cookie />} />
           <Route path="/custom-laser" element={<CustomLaserEtching />} />
+          <Route path="/product-upload-form" element={<ProductUploadForm />} />
           <Route
             path="/tailor-greeting"
             element={<TailoredGreetingCardDesign />}
